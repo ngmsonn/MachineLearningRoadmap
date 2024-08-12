@@ -7,4 +7,4 @@ Hành trình học Machine Learning
 |   | Chủ đề        |  Tài liệu tham khảo|
 | ------------- | ------------- | ------------------ |
 | Ngày 1        | Supervised Learning |                    |
-| Content Cell  | Content Cell  |                    |
+| Ngày 2  | Content Cell  |                    |
