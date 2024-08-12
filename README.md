@@ -6,5 +6,5 @@ Một số tài nguyên tham khảo:
 Hành trình học Machine Learning
 |   | Chủ đề        |  Tài liệu tham khảo|
 | ------------- | ------------- | ------------------ |
-| Ngày 1        | Supervised Learning | * Cornell CS4780 - Lecture 1 + 2: Supervised learning setup <br> CS229 Machine Learning                    |
+| Ngày 1        | Supervised Learning | * Cornell CS4780 - Lecture 1 + 2: Supervised learning setup <br> * Stanford CS229 Machine Learning - Lecture 2 : Supervised learning setup   |
 | Ngày 2  | Content Cell  |                    |
