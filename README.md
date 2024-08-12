@@ -6,5 +6,5 @@ Một số tài nguyên tham khảo:
 Hành trình học Machine Learning
 |   | Chủ đề        |  Tài liệu tham khảo|
 | ------------- | ------------- | ------------------ |
-| Ngày 1        | Content Cell  |                    |
+| Ngày 1        | Supervised Learning |                    |
 | Content Cell  | Content Cell  |                    |
