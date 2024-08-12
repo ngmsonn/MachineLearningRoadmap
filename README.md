@@ -4,7 +4,7 @@ Một số tài nguyên tham khảo:
 * [Awesome Mathematics - ngmsonn](https://github.com/ngmsonn/Awesome_Mathematics)
 
 Hành trình học Machine Learning
-|   | Chủ đề        |  Tài liệu tham khảo|
+|   | Chủ đề        |  Tham khảo|
 | ------------- | ------------- | ------------------ |
 | Ngày 1        | Supervised Learning | * Cornell CS4780 - Lecture 1 + 2: Supervised learning setup <br> * Stanford CS229 Machine Learning - Lecture 2 : Supervised learning setup   |
 | Ngày 2  |   |                    |
